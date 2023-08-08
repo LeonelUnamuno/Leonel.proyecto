@@ -35,19 +35,19 @@ footer{
 
 
 #headerGrid {
-    background-color: gold;
+    background-color: violet;
 }
 #section1 {
-    background-color: gold;
+    background-color: aqua;
     grid-area: section1;
 }
 #section2 {
-    background-color: gold;
+    background-color: aqua;
     grid-area: section2;
 }
 #footerGrid {
-    background-color: gold;
+    background-color: aqua;
 }
 .fondoNav {
- background-color: gold;
+ background-color: violet;
 }
