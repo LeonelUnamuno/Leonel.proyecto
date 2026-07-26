@@ -1,0 +1,24 @@
+{
+  "name": "remotion-app",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "remotion studio src/index.ts",
+    "render": "remotion render src/index.ts VideoEdit out/final.mp4",
+    "still": "remotion still"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.499",
+    "@remotion/fonts": "^4.0.499",
+    "@remotion/media-utils": "4.0.499",
+    "@remotion/zod-types": "4.0.499",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.499",
+    "zod": "4.4.3"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.1",
+    "typescript": "5.5.4"
+  }
+}
