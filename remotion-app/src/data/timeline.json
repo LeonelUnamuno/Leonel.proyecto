@@ -1,0 +1,1299 @@
+{
+  "fps": 30,
+  "totalDurationOriginal": 21.421667,
+  "totalDurationEdited": 13.365019999999998,
+  "totalFrames": 401,
+  "segments": [
+    {
+      "sourceStart": 2.134,
+      "sourceEnd": 4.183,
+      "sourceStartFrame": 64,
+      "sourceEndFrame": 125,
+      "newStart": 0,
+      "newStartFrame": 0,
+      "durationInFrames": 61
+    },
+    {
+      "sourceStart": 4.512,
+      "sourceEnd": 5.09,
+      "sourceStartFrame": 135,
+      "sourceEndFrame": 153,
+      "newStart": 2.048,
+      "newStartFrame": 61,
+      "durationInFrames": 17
+    },
+    {
+      "sourceStart": 5.579,
+      "sourceEnd": 6.575,
+      "sourceStartFrame": 167,
+      "sourceEndFrame": 197,
+      "newStart": 2.626,
+      "newStartFrame": 79,
+      "durationInFrames": 30
+    },
+    {
+      "sourceStart": 6.862,
+      "sourceEnd": 7.786,
+      "sourceStartFrame": 206,
+      "sourceEndFrame": 234,
+      "newStart": 3.621,
+      "newStartFrame": 109,
+      "durationInFrames": 28
+    },
+    {
+      "sourceStart": 8.258,
+      "sourceEnd": 11.166,
+      "sourceStartFrame": 248,
+      "sourceEndFrame": 335,
+      "newStart": 4.546,
+      "newStartFrame": 136,
+      "durationInFrames": 87
+    },
+    {
+      "sourceStart": 11.459,
+      "sourceEnd": 12.045,
+      "sourceStartFrame": 344,
+      "sourceEndFrame": 361,
+      "newStart": 7.454,
+      "newStartFrame": 224,
+      "durationInFrames": 18
+    },
+    {
+      "sourceStart": 12.687,
+      "sourceEnd": 13.871,
+      "sourceStartFrame": 381,
+      "sourceEndFrame": 416,
+      "newStart": 8.04,
+      "newStartFrame": 241,
+      "durationInFrames": 36
+    },
+    {
+      "sourceStart": 14.152,
+      "sourceEnd": 15.376,
+      "sourceStartFrame": 425,
+      "sourceEndFrame": 461,
+      "newStart": 9.224,
+      "newStartFrame": 277,
+      "durationInFrames": 37
+    },
+    {
+      "sourceStart": 15.595,
+      "sourceEnd": 15.747,
+      "sourceStartFrame": 468,
+      "sourceEndFrame": 472,
+      "newStart": 10.448,
+      "newStartFrame": 313,
+      "durationInFrames": 5
+    },
+    {
+      "sourceStart": 15.928,
+      "sourceEnd": 16.91,
+      "sourceStartFrame": 478,
+      "sourceEndFrame": 507,
+      "newStart": 10.6,
+      "newStartFrame": 318,
+      "durationInFrames": 29
+    },
+    {
+      "sourceStart": 17.74,
+      "sourceEnd": 18.078,
+      "sourceStartFrame": 532,
+      "sourceEndFrame": 542,
+      "newStart": 11.582,
+      "newStartFrame": 347,
+      "durationInFrames": 10
+    },
+    {
+      "sourceStart": 18.415,
+      "sourceEnd": 18.995,
+      "sourceStartFrame": 552,
+      "sourceEndFrame": 570,
+      "newStart": 11.921,
+      "newStartFrame": 358,
+      "durationInFrames": 17
+    },
+    {
+      "sourceStart": 19.878,
+      "sourceEnd": 20.741,
+      "sourceStartFrame": 596,
+      "sourceEndFrame": 622,
+      "newStart": 12.502,
+      "newStartFrame": 375,
+      "durationInFrames": 26
+    }
+  ],
+  "words": [
+    {
+      "text": "Que",
+      "start": 0,
+      "end": 0.146,
+      "startFrame": 0,
+      "endFrame": 4,
+      "prob": 0.16,
+      "segmentIndex": 0
+    },
+    {
+      "text": "onda",
+      "start": 0.146,
+      "end": 0.286,
+      "startFrame": 4,
+      "endFrame": 9,
+      "prob": 0.963,
+      "segmentIndex": 0
+    },
+    {
+      "text": "como",
+      "start": 0.286,
+      "end": 0.526,
+      "startFrame": 9,
+      "endFrame": 16,
+      "prob": 0.539,
+      "segmentIndex": 0
+    },
+    {
+      "text": "están,",
+      "start": 0.526,
+      "end": 0.806,
+      "startFrame": 16,
+      "endFrame": 24,
+      "prob": 0.454,
+      "segmentIndex": 0
+    },
+    {
+      "text": "este",
+      "start": 1.026,
+      "end": 1.126,
+      "startFrame": 31,
+      "endFrame": 34,
+      "prob": 0.817,
+      "segmentIndex": 0
+    },
+    {
+      "text": "es",
+      "start": 1.126,
+      "end": 1.246,
+      "startFrame": 34,
+      "endFrame": 37,
+      "prob": 0.961,
+      "segmentIndex": 0
+    },
+    {
+      "text": "un",
+      "start": 1.246,
+      "end": 1.386,
+      "startFrame": 37,
+      "endFrame": 42,
+      "prob": 0.987,
+      "segmentIndex": 0
+    },
+    {
+      "text": "video",
+      "start": 1.386,
+      "end": 1.826,
+      "startFrame": 42,
+      "endFrame": 55,
+      "prob": 0.578,
+      "segmentIndex": 0
+    },
+    {
+      "text": "para",
+      "start": 1.826,
+      "end": 2.316,
+      "startFrame": 55,
+      "endFrame": 69,
+      "prob": 0.867,
+      "segmentIndex": 0
+    },
+    {
+      "text": "ver",
+      "start": 2.316,
+      "end": 2.616,
+      "startFrame": 69,
+      "endFrame": 78,
+      "prob": 0.99,
+      "segmentIndex": 1
+    },
+    {
+      "text": "que",
+      "start": 2.616,
+      "end": 2.827,
+      "startFrame": 78,
+      "endFrame": 85,
+      "prob": 0.613,
+      "segmentIndex": 1
+    },
+    {
+      "text": "mierda",
+      "start": 2.827,
+      "end": 3.621,
+      "startFrame": 85,
+      "endFrame": 109,
+      "prob": 0.976,
+      "keyword": "curse",
+      "segmentIndex": 2
+    },
+    {
+      "text": "puedo",
+      "start": 3.621,
+      "end": 3.82,
+      "startFrame": 109,
+      "endFrame": 115,
+      "prob": 0.793,
+      "segmentIndex": 2
+    },
+    {
+      "text": "estar",
+      "start": 3.82,
+      "end": 4.0,
+      "startFrame": 115,
+      "endFrame": 120,
+      "prob": 0.121,
+      "segmentIndex": 3
+    },
+    {
+      "text": "con",
+      "start": 4.0,
+      "end": 4.2,
+      "startFrame": 120,
+      "endFrame": 126,
+      "prob": 0.988,
+      "segmentIndex": 3
+    },
+    {
+      "text": "Claude",
+      "start": 4.2,
+      "end": 4.546,
+      "startFrame": 126,
+      "endFrame": 136,
+      "prob": 0.713,
+      "keyword": "claude",
+      "segmentIndex": 3
+    },
+    {
+      "text": "No",
+      "start": 4.546,
+      "end": 4.728,
+      "startFrame": 136,
+      "endFrame": 142,
+      "prob": 0.196,
+      "segmentIndex": 4
+    },
+    {
+      "text": "tengo",
+      "start": 4.728,
+      "end": 4.808,
+      "startFrame": 142,
+      "endFrame": 144,
+      "prob": 0.732,
+      "segmentIndex": 4
+    },
+    {
+      "text": "idea,",
+      "start": 4.808,
+      "end": 5.128,
+      "startFrame": 144,
+      "endFrame": 154,
+      "prob": 0.614,
+      "segmentIndex": 4
+    },
+    {
+      "text": "no",
+      "start": 5.408,
+      "end": 5.508,
+      "startFrame": 162,
+      "endFrame": 165,
+      "prob": 0.989,
+      "segmentIndex": 4
+    },
+    {
+      "text": "se",
+      "start": 5.508,
+      "end": 5.648,
+      "startFrame": 165,
+      "endFrame": 169,
+      "prob": 0.757,
+      "segmentIndex": 4
+    },
+    {
+      "text": "que",
+      "start": 5.648,
+      "end": 5.748,
+      "startFrame": 169,
+      "endFrame": 172,
+      "prob": 0.438,
+      "segmentIndex": 4
+    },
+    {
+      "text": "va",
+      "start": 5.748,
+      "end": 5.848,
+      "startFrame": 172,
+      "endFrame": 175,
+      "prob": 0.607,
+      "segmentIndex": 4
+    },
+    {
+      "text": "a",
+      "start": 5.848,
+      "end": 6.068,
+      "startFrame": 175,
+      "endFrame": 182,
+      "prob": 0.954,
+      "segmentIndex": 4
+    },
+    {
+      "text": "pasar,",
+      "start": 6.068,
+      "end": 6.148,
+      "startFrame": 182,
+      "endFrame": 184,
+      "prob": 0.992,
+      "segmentIndex": 4
+    },
+    {
+      "text": "no",
+      "start": 6.368,
+      "end": 6.488,
+      "startFrame": 191,
+      "endFrame": 195,
+      "prob": 0.981,
+      "segmentIndex": 4
+    },
+    {
+      "text": "se",
+      "start": 6.488,
+      "end": 6.648,
+      "startFrame": 195,
+      "endFrame": 199,
+      "prob": 0.872,
+      "segmentIndex": 4
+    },
+    {
+      "text": "que",
+      "start": 6.648,
+      "end": 6.768,
+      "startFrame": 199,
+      "endFrame": 203,
+      "prob": 0.98,
+      "segmentIndex": 4
+    },
+    {
+      "text": "onda,",
+      "start": 6.768,
+      "end": 7.008,
+      "startFrame": 203,
+      "endFrame": 210,
+      "prob": 0.748,
+      "segmentIndex": 4
+    },
+    {
+      "text": "pero",
+      "start": 7.148,
+      "end": 7.268,
+      "startFrame": 214,
+      "endFrame": 218,
+      "prob": 0.948,
+      "segmentIndex": 4
+    },
+    {
+      "text": "bueno,",
+      "start": 7.268,
+      "end": 7.454,
+      "startFrame": 218,
+      "endFrame": 224,
+      "prob": 0.963,
+      "segmentIndex": 4
+    },
+    {
+      "text": "vamos",
+      "start": 7.455,
+      "end": 7.655,
+      "startFrame": 224,
+      "endFrame": 230,
+      "prob": 0.973,
+      "segmentIndex": 5
+    },
+    {
+      "text": "a",
+      "start": 7.655,
+      "end": 7.755,
+      "startFrame": 230,
+      "endFrame": 233,
+      "prob": 0.949,
+      "segmentIndex": 5
+    },
+    {
+      "text": "ver",
+      "start": 7.755,
+      "end": 7.795,
+      "startFrame": 233,
+      "endFrame": 234,
+      "prob": 0.993,
+      "segmentIndex": 5
+    },
+    {
+      "text": "que",
+      "start": 7.795,
+      "end": 7.855,
+      "startFrame": 234,
+      "endFrame": 236,
+      "prob": 0.909,
+      "segmentIndex": 5
+    },
+    {
+      "text": "onda",
+      "start": 7.855,
+      "end": 8.035,
+      "startFrame": 236,
+      "endFrame": 241,
+      "prob": 0.969,
+      "segmentIndex": 5
+    },
+    {
+      "text": "Vamos",
+      "start": 8.213,
+      "end": 8.613,
+      "startFrame": 246,
+      "endFrame": 258,
+      "prob": 0.38,
+      "segmentIndex": 6
+    },
+    {
+      "text": "a",
+      "start": 8.613,
+      "end": 8.873,
+      "startFrame": 258,
+      "endFrame": 266,
+      "prob": 0.982,
+      "segmentIndex": 6
+    },
+    {
+      "text": "empezar",
+      "start": 8.873,
+      "end": 8.923,
+      "startFrame": 266,
+      "endFrame": 268,
+      "prob": 0.978,
+      "segmentIndex": 6
+    },
+    {
+      "text": "a",
+      "start": 8.873,
+      "end": 8.953,
+      "startFrame": 266,
+      "endFrame": 269,
+      "prob": 0.993,
+      "segmentIndex": 6
+    },
+    {
+      "text": "hablar,",
+      "start": 8.953,
+      "end": 9.093,
+      "startFrame": 269,
+      "endFrame": 273,
+      "prob": 0.994,
+      "segmentIndex": 6
+    },
+    {
+      "text": "espero",
+      "start": 9.224,
+      "end": 9.452,
+      "startFrame": 277,
+      "endFrame": 284,
+      "prob": 0.991,
+      "segmentIndex": 6
+    },
+    {
+      "text": "que",
+      "start": 9.452,
+      "end": 9.552,
+      "startFrame": 284,
+      "endFrame": 287,
+      "prob": 0.773,
+      "segmentIndex": 7
+    },
+    {
+      "text": "los",
+      "start": 9.552,
+      "end": 9.672,
+      "startFrame": 287,
+      "endFrame": 290,
+      "prob": 0.95,
+      "segmentIndex": 7
+    },
+    {
+      "text": "subtítulos",
+      "start": 9.672,
+      "end": 9.872,
+      "startFrame": 290,
+      "endFrame": 296,
+      "prob": 0.541,
+      "keyword": "subtitles",
+      "segmentIndex": 7
+    },
+    {
+      "text": "estén",
+      "start": 9.872,
+      "end": 10.092,
+      "startFrame": 296,
+      "endFrame": 303,
+      "prob": 0.893,
+      "segmentIndex": 7
+    },
+    {
+      "text": "buenos",
+      "start": 10.092,
+      "end": 10.392,
+      "startFrame": 303,
+      "endFrame": 312,
+      "prob": 0.983,
+      "segmentIndex": 7
+    },
+    {
+      "text": "Vamos",
+      "start": 10.6,
+      "end": 10.772,
+      "startFrame": 318,
+      "endFrame": 323,
+      "prob": 0.156,
+      "segmentIndex": 8
+    },
+    {
+      "text": "a",
+      "start": 10.772,
+      "end": 10.892,
+      "startFrame": 323,
+      "endFrame": 327,
+      "prob": 0.981,
+      "segmentIndex": 9
+    },
+    {
+      "text": "ver",
+      "start": 10.892,
+      "end": 10.992,
+      "startFrame": 327,
+      "endFrame": 330,
+      "prob": 0.229,
+      "segmentIndex": 9
+    },
+    {
+      "text": "el",
+      "start": 10.992,
+      "end": 11.092,
+      "startFrame": 330,
+      "endFrame": 333,
+      "prob": 0.404,
+      "segmentIndex": 9
+    },
+    {
+      "text": "título",
+      "start": 11.092,
+      "end": 11.552,
+      "startFrame": 333,
+      "endFrame": 347,
+      "prob": 0.68,
+      "keyword": "title",
+      "segmentIndex": 9
+    },
+    {
+      "text": "y",
+      "start": 11.552,
+      "end": 11.803,
+      "startFrame": 347,
+      "endFrame": 354,
+      "prob": 0.313,
+      "segmentIndex": 9
+    },
+    {
+      "text": "bueno,",
+      "start": 11.803,
+      "end": 11.921,
+      "startFrame": 354,
+      "endFrame": 358,
+      "prob": 0.95,
+      "segmentIndex": 10
+    },
+    {
+      "text": "vamos",
+      "start": 11.921,
+      "end": 12.146,
+      "startFrame": 358,
+      "endFrame": 364,
+      "prob": 0.967,
+      "segmentIndex": 10
+    },
+    {
+      "text": "a",
+      "start": 12.146,
+      "end": 12.226,
+      "startFrame": 364,
+      "endFrame": 367,
+      "prob": 0.959,
+      "segmentIndex": 11
+    },
+    {
+      "text": "ver",
+      "start": 12.226,
+      "end": 12.326,
+      "startFrame": 367,
+      "endFrame": 370,
+      "prob": 0.994,
+      "segmentIndex": 11
+    },
+    {
+      "text": "que",
+      "start": 12.326,
+      "end": 12.406,
+      "startFrame": 370,
+      "endFrame": 372,
+      "prob": 0.927,
+      "segmentIndex": 11
+    },
+    {
+      "text": "onda",
+      "start": 12.406,
+      "end": 12.502,
+      "startFrame": 372,
+      "endFrame": 375,
+      "prob": 0.966,
+      "segmentIndex": 11
+    },
+    {
+      "text": "TAPE",
+      "start": 12.664,
+      "end": 13.064,
+      "startFrame": 380,
+      "endFrame": 392,
+      "prob": 0.285,
+      "segmentIndex": 12
+    }
+  ],
+  "captionGroups": [
+    {
+      "startFrame": 0,
+      "endFrame": 34,
+      "text": "Que onda como están, este",
+      "words": [
+        {
+          "text": "Que",
+          "start": 0,
+          "end": 0.146,
+          "startFrame": 0,
+          "endFrame": 4,
+          "prob": 0.16,
+          "segmentIndex": 0
+        },
+        {
+          "text": "onda",
+          "start": 0.146,
+          "end": 0.286,
+          "startFrame": 4,
+          "endFrame": 9,
+          "prob": 0.963,
+          "segmentIndex": 0
+        },
+        {
+          "text": "como",
+          "start": 0.286,
+          "end": 0.526,
+          "startFrame": 9,
+          "endFrame": 16,
+          "prob": 0.539,
+          "segmentIndex": 0
+        },
+        {
+          "text": "están,",
+          "start": 0.526,
+          "end": 0.806,
+          "startFrame": 16,
+          "endFrame": 24,
+          "prob": 0.454,
+          "segmentIndex": 0
+        },
+        {
+          "text": "este",
+          "start": 1.026,
+          "end": 1.126,
+          "startFrame": 31,
+          "endFrame": 34,
+          "prob": 0.817,
+          "segmentIndex": 0
+        }
+      ]
+    },
+    {
+      "startFrame": 34,
+      "endFrame": 69,
+      "text": "es un video para",
+      "words": [
+        {
+          "text": "es",
+          "start": 1.126,
+          "end": 1.246,
+          "startFrame": 34,
+          "endFrame": 37,
+          "prob": 0.961,
+          "segmentIndex": 0
+        },
+        {
+          "text": "un",
+          "start": 1.246,
+          "end": 1.386,
+          "startFrame": 37,
+          "endFrame": 42,
+          "prob": 0.987,
+          "segmentIndex": 0
+        },
+        {
+          "text": "video",
+          "start": 1.386,
+          "end": 1.826,
+          "startFrame": 42,
+          "endFrame": 55,
+          "prob": 0.578,
+          "segmentIndex": 0
+        },
+        {
+          "text": "para",
+          "start": 1.826,
+          "end": 2.316,
+          "startFrame": 55,
+          "endFrame": 69,
+          "prob": 0.867,
+          "segmentIndex": 0
+        }
+      ]
+    },
+    {
+      "startFrame": 69,
+      "endFrame": 85,
+      "text": "ver que",
+      "words": [
+        {
+          "text": "ver",
+          "start": 2.316,
+          "end": 2.616,
+          "startFrame": 69,
+          "endFrame": 78,
+          "prob": 0.99,
+          "segmentIndex": 1
+        },
+        {
+          "text": "que",
+          "start": 2.616,
+          "end": 2.827,
+          "startFrame": 78,
+          "endFrame": 85,
+          "prob": 0.613,
+          "segmentIndex": 1
+        }
+      ]
+    },
+    {
+      "startFrame": 85,
+      "endFrame": 115,
+      "text": "mierda puedo",
+      "words": [
+        {
+          "text": "mierda",
+          "start": 2.827,
+          "end": 3.621,
+          "startFrame": 85,
+          "endFrame": 109,
+          "prob": 0.976,
+          "keyword": "curse",
+          "segmentIndex": 2
+        },
+        {
+          "text": "puedo",
+          "start": 3.621,
+          "end": 3.82,
+          "startFrame": 109,
+          "endFrame": 115,
+          "prob": 0.793,
+          "segmentIndex": 2
+        }
+      ]
+    },
+    {
+      "startFrame": 115,
+      "endFrame": 136,
+      "text": "estar con Claude",
+      "words": [
+        {
+          "text": "estar",
+          "start": 3.82,
+          "end": 4.0,
+          "startFrame": 115,
+          "endFrame": 120,
+          "prob": 0.121,
+          "segmentIndex": 3
+        },
+        {
+          "text": "con",
+          "start": 4.0,
+          "end": 4.2,
+          "startFrame": 120,
+          "endFrame": 126,
+          "prob": 0.988,
+          "segmentIndex": 3
+        },
+        {
+          "text": "Claude",
+          "start": 4.2,
+          "end": 4.546,
+          "startFrame": 126,
+          "endFrame": 136,
+          "prob": 0.713,
+          "keyword": "claude",
+          "segmentIndex": 3
+        }
+      ]
+    },
+    {
+      "startFrame": 136,
+      "endFrame": 169,
+      "text": "No tengo idea, no se",
+      "words": [
+        {
+          "text": "No",
+          "start": 4.546,
+          "end": 4.728,
+          "startFrame": 136,
+          "endFrame": 142,
+          "prob": 0.196,
+          "segmentIndex": 4
+        },
+        {
+          "text": "tengo",
+          "start": 4.728,
+          "end": 4.808,
+          "startFrame": 142,
+          "endFrame": 144,
+          "prob": 0.732,
+          "segmentIndex": 4
+        },
+        {
+          "text": "idea,",
+          "start": 4.808,
+          "end": 5.128,
+          "startFrame": 144,
+          "endFrame": 154,
+          "prob": 0.614,
+          "segmentIndex": 4
+        },
+        {
+          "text": "no",
+          "start": 5.408,
+          "end": 5.508,
+          "startFrame": 162,
+          "endFrame": 165,
+          "prob": 0.989,
+          "segmentIndex": 4
+        },
+        {
+          "text": "se",
+          "start": 5.508,
+          "end": 5.648,
+          "startFrame": 165,
+          "endFrame": 169,
+          "prob": 0.757,
+          "segmentIndex": 4
+        }
+      ]
+    },
+    {
+      "startFrame": 169,
+      "endFrame": 195,
+      "text": "que va a pasar, no",
+      "words": [
+        {
+          "text": "que",
+          "start": 5.648,
+          "end": 5.748,
+          "startFrame": 169,
+          "endFrame": 172,
+          "prob": 0.438,
+          "segmentIndex": 4
+        },
+        {
+          "text": "va",
+          "start": 5.748,
+          "end": 5.848,
+          "startFrame": 172,
+          "endFrame": 175,
+          "prob": 0.607,
+          "segmentIndex": 4
+        },
+        {
+          "text": "a",
+          "start": 5.848,
+          "end": 6.068,
+          "startFrame": 175,
+          "endFrame": 182,
+          "prob": 0.954,
+          "segmentIndex": 4
+        },
+        {
+          "text": "pasar,",
+          "start": 6.068,
+          "end": 6.148,
+          "startFrame": 182,
+          "endFrame": 184,
+          "prob": 0.992,
+          "segmentIndex": 4
+        },
+        {
+          "text": "no",
+          "start": 6.368,
+          "end": 6.488,
+          "startFrame": 191,
+          "endFrame": 195,
+          "prob": 0.981,
+          "segmentIndex": 4
+        }
+      ]
+    },
+    {
+      "startFrame": 195,
+      "endFrame": 224,
+      "text": "se que onda, pero bueno,",
+      "words": [
+        {
+          "text": "se",
+          "start": 6.488,
+          "end": 6.648,
+          "startFrame": 195,
+          "endFrame": 199,
+          "prob": 0.872,
+          "segmentIndex": 4
+        },
+        {
+          "text": "que",
+          "start": 6.648,
+          "end": 6.768,
+          "startFrame": 199,
+          "endFrame": 203,
+          "prob": 0.98,
+          "segmentIndex": 4
+        },
+        {
+          "text": "onda,",
+          "start": 6.768,
+          "end": 7.008,
+          "startFrame": 203,
+          "endFrame": 210,
+          "prob": 0.748,
+          "segmentIndex": 4
+        },
+        {
+          "text": "pero",
+          "start": 7.148,
+          "end": 7.268,
+          "startFrame": 214,
+          "endFrame": 218,
+          "prob": 0.948,
+          "segmentIndex": 4
+        },
+        {
+          "text": "bueno,",
+          "start": 7.268,
+          "end": 7.454,
+          "startFrame": 218,
+          "endFrame": 224,
+          "prob": 0.963,
+          "segmentIndex": 4
+        }
+      ]
+    },
+    {
+      "startFrame": 224,
+      "endFrame": 241,
+      "text": "vamos a ver que onda",
+      "words": [
+        {
+          "text": "vamos",
+          "start": 7.455,
+          "end": 7.655,
+          "startFrame": 224,
+          "endFrame": 230,
+          "prob": 0.973,
+          "segmentIndex": 5
+        },
+        {
+          "text": "a",
+          "start": 7.655,
+          "end": 7.755,
+          "startFrame": 230,
+          "endFrame": 233,
+          "prob": 0.949,
+          "segmentIndex": 5
+        },
+        {
+          "text": "ver",
+          "start": 7.755,
+          "end": 7.795,
+          "startFrame": 233,
+          "endFrame": 234,
+          "prob": 0.993,
+          "segmentIndex": 5
+        },
+        {
+          "text": "que",
+          "start": 7.795,
+          "end": 7.855,
+          "startFrame": 234,
+          "endFrame": 236,
+          "prob": 0.909,
+          "segmentIndex": 5
+        },
+        {
+          "text": "onda",
+          "start": 7.855,
+          "end": 8.035,
+          "startFrame": 236,
+          "endFrame": 241,
+          "prob": 0.969,
+          "segmentIndex": 5
+        }
+      ]
+    },
+    {
+      "startFrame": 246,
+      "endFrame": 284,
+      "text": "Vamos a empezar a hablar, espero",
+      "words": [
+        {
+          "text": "Vamos",
+          "start": 8.213,
+          "end": 8.613,
+          "startFrame": 246,
+          "endFrame": 258,
+          "prob": 0.38,
+          "segmentIndex": 6
+        },
+        {
+          "text": "a",
+          "start": 8.613,
+          "end": 8.873,
+          "startFrame": 258,
+          "endFrame": 266,
+          "prob": 0.982,
+          "segmentIndex": 6
+        },
+        {
+          "text": "empezar",
+          "start": 8.873,
+          "end": 8.923,
+          "startFrame": 266,
+          "endFrame": 268,
+          "prob": 0.978,
+          "segmentIndex": 6
+        },
+        {
+          "text": "a",
+          "start": 8.873,
+          "end": 8.953,
+          "startFrame": 266,
+          "endFrame": 269,
+          "prob": 0.993,
+          "segmentIndex": 6
+        },
+        {
+          "text": "hablar,",
+          "start": 8.953,
+          "end": 9.093,
+          "startFrame": 269,
+          "endFrame": 273,
+          "prob": 0.994,
+          "segmentIndex": 6
+        },
+        {
+          "text": "espero",
+          "start": 9.224,
+          "end": 9.452,
+          "startFrame": 277,
+          "endFrame": 284,
+          "prob": 0.991,
+          "segmentIndex": 6
+        }
+      ]
+    },
+    {
+      "startFrame": 284,
+      "endFrame": 323,
+      "text": "que los subtítulos estén buenos Vamos",
+      "words": [
+        {
+          "text": "que",
+          "start": 9.452,
+          "end": 9.552,
+          "startFrame": 284,
+          "endFrame": 287,
+          "prob": 0.773,
+          "segmentIndex": 7
+        },
+        {
+          "text": "los",
+          "start": 9.552,
+          "end": 9.672,
+          "startFrame": 287,
+          "endFrame": 290,
+          "prob": 0.95,
+          "segmentIndex": 7
+        },
+        {
+          "text": "subtítulos",
+          "start": 9.672,
+          "end": 9.872,
+          "startFrame": 290,
+          "endFrame": 296,
+          "prob": 0.541,
+          "keyword": "subtitles",
+          "segmentIndex": 7
+        },
+        {
+          "text": "estén",
+          "start": 9.872,
+          "end": 10.092,
+          "startFrame": 296,
+          "endFrame": 303,
+          "prob": 0.893,
+          "segmentIndex": 7
+        },
+        {
+          "text": "buenos",
+          "start": 10.092,
+          "end": 10.392,
+          "startFrame": 303,
+          "endFrame": 312,
+          "prob": 0.983,
+          "segmentIndex": 7
+        },
+        {
+          "text": "Vamos",
+          "start": 10.6,
+          "end": 10.772,
+          "startFrame": 318,
+          "endFrame": 323,
+          "prob": 0.156,
+          "segmentIndex": 8
+        }
+      ]
+    },
+    {
+      "startFrame": 323,
+      "endFrame": 364,
+      "text": "a ver el título y bueno, vamos",
+      "words": [
+        {
+          "text": "a",
+          "start": 10.772,
+          "end": 10.892,
+          "startFrame": 323,
+          "endFrame": 327,
+          "prob": 0.981,
+          "segmentIndex": 9
+        },
+        {
+          "text": "ver",
+          "start": 10.892,
+          "end": 10.992,
+          "startFrame": 327,
+          "endFrame": 330,
+          "prob": 0.229,
+          "segmentIndex": 9
+        },
+        {
+          "text": "el",
+          "start": 10.992,
+          "end": 11.092,
+          "startFrame": 330,
+          "endFrame": 333,
+          "prob": 0.404,
+          "segmentIndex": 9
+        },
+        {
+          "text": "título",
+          "start": 11.092,
+          "end": 11.552,
+          "startFrame": 333,
+          "endFrame": 347,
+          "prob": 0.68,
+          "keyword": "title",
+          "segmentIndex": 9
+        },
+        {
+          "text": "y",
+          "start": 11.552,
+          "end": 11.803,
+          "startFrame": 347,
+          "endFrame": 354,
+          "prob": 0.313,
+          "segmentIndex": 9
+        },
+        {
+          "text": "bueno,",
+          "start": 11.803,
+          "end": 11.921,
+          "startFrame": 354,
+          "endFrame": 358,
+          "prob": 0.95,
+          "segmentIndex": 10
+        },
+        {
+          "text": "vamos",
+          "start": 11.921,
+          "end": 12.146,
+          "startFrame": 358,
+          "endFrame": 364,
+          "prob": 0.967,
+          "segmentIndex": 10
+        }
+      ]
+    },
+    {
+      "startFrame": 364,
+      "endFrame": 375,
+      "text": "a ver que onda",
+      "words": [
+        {
+          "text": "a",
+          "start": 12.146,
+          "end": 12.226,
+          "startFrame": 364,
+          "endFrame": 367,
+          "prob": 0.959,
+          "segmentIndex": 11
+        },
+        {
+          "text": "ver",
+          "start": 12.226,
+          "end": 12.326,
+          "startFrame": 367,
+          "endFrame": 370,
+          "prob": 0.994,
+          "segmentIndex": 11
+        },
+        {
+          "text": "que",
+          "start": 12.326,
+          "end": 12.406,
+          "startFrame": 370,
+          "endFrame": 372,
+          "prob": 0.927,
+          "segmentIndex": 11
+        },
+        {
+          "text": "onda",
+          "start": 12.406,
+          "end": 12.502,
+          "startFrame": 372,
+          "endFrame": 375,
+          "prob": 0.966,
+          "segmentIndex": 11
+        }
+      ]
+    }
+  ]
+}
